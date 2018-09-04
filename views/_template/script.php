@@ -1,0 +1,9 @@
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+<script src='../../public/libs/arcticmodal/jquery.arcticmodal-0.3.min.js'></script>
+<script src='../../public/libs/slick/slick.jquery.json'></script>
+<script src='../../public/libs/slick/slick/slick.min.js'></script>
+<script src='../../public/libs/jQueryFormStyler/dist/jquery.formstyler.min.js'></script>
+<script src='../../public/libs/numberPlugin/number_plugin/number_plugin.js'></script>
+<script src='../../public/libs/jscrollpane/jquery.jscrollpane.min.js'></script>
+<script src='../../public/libs/jscrollpane/jquery.mousewheel.js'></script>
+<script src='../../public/js/app.js'></script>
